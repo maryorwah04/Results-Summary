@@ -5,6 +5,10 @@ body {
 
 .container-fluid {
     height: 100vh;
+}
+
+main {
+    height: 100%;
     background-color: blueviolet;
 }
 
