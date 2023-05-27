@@ -1,3 +1,12 @@
+@font-face {
+    font-family: "CustomFont";
+    src: url("assets/fonts/HankenGrotesk-VariableFont_wght.ttf") format("truetype");
+}
+
+:root {
+    --default-font: "CustomFont", Arial, Helvetica, sans-serif;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -13,6 +22,9 @@ main {
 
 .header {
     height: 40%;
+    color: #fff;
+    font-family: var(--default-font);
+    text-align: center;
     background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
     border-radius: 0 0 15px 15px;
 }
