@@ -53,6 +53,8 @@ main {
     width: 100%;
     background-color: hsl(150, 100%, 85%);
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 
