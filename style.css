@@ -83,11 +83,12 @@ main {
 
 @media screen and (min-width: 992px) {
     main {
-        display: flex;
         align-items: center;
-        justify-content: center;
-        width: 60%;
-        height: 100%;
+        height: 600px;   
+    }
+
+    .result-box {
+        height: 40%;
     }
 
     .header, .body {
@@ -97,9 +98,10 @@ main {
 
     .header {
         border-radius: 15px;
+        justify-content: space-evenly;
     }
 
-    .body {
-        justify-content: space-between;
+    .attribution {
+        display: none;
     }
 }
