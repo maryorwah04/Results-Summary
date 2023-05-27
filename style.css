@@ -48,13 +48,25 @@ main {
 }
 
 .cgn {
-    height: calc(100% / 4.5);
+    height: calc(100% / 5.3);
     border-radius: 10px;
     width: 100%;
     background-color: hsl(150, 100%, 85%);
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.abstract-item {
+    background-color: hsl(290, 84%, 46%);
+    border: none;
+    outline: none;
+    appearance: none;
+    width: 90%;
+    justify-content: center;
+    border-radius: 25px;
+    color: #fff;
+    font-size: large;
 }
 
 
