@@ -39,6 +39,7 @@ main {
 
 .body {
     height: 55%;
+    font-family: var(--default-font);
 }
 
 
