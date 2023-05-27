@@ -29,6 +29,11 @@ main {
     border-radius: 0 0 15px 15px;
 }
 
+.result-box {
+    background: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
+    border-radius: 49%;
+    height: 60%;
+}
 
 
 .attribution { font-size: 11px; text-align: center; }
