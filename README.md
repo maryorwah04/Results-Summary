@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/semantic-html-markup-css-flexbox-bootstrap-E4TMIQCL2J)
-- Live Site URL: [Add live site URL here](https://maryorwah04.github.io/Results-Summary/)
+- Solution URL: [solution url](https://www.frontendmentor.io/solutions/semantic-html-markup-css-flexbox-bootstrap-E4TMIQCL2J)
+- Live Site URL: [Preview page](https://maryorwah04.github.io/Results-Summary/)
 
 ## My process
 
