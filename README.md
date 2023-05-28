@@ -23,12 +23,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/Screenshot (510).png)
-![](./assets/images/Screenshot (511).png)
+![Screenshot 1](/assets/images/Screenshot%20(510).png)
+![Screenshot 2](/assets/images/Screenshot%20(511).png)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/semantic-html-markup-css-flexbox-bootstrap-E4TMIQCL2J)
 - Live Site URL: [Add live site URL here](https://maryorwah04.github.io/Results-Summary/)
 
 ## My process
